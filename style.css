@@ -328,7 +328,7 @@ section:nth-child(2n+1){
     margin:0px;
     height:75%;
     /* margin-top: 20px; */
-    background:linear-gradient(to bottom left,rgb(56, 79, 190),rgb(135, 60, 219));
+    background:linear-gradient(to bottom left,rgb(143, 25, 158),rgb(75, 53, 100));
 }
 #contact-heading{
     color:white;
